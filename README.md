@@ -19,7 +19,7 @@ Customization
 You can tweak paddle and ball speed in game.js for different difficulty levels.
 Modify colors or canvas size in style.css or index.html.
 Credits
-Created by TANMAY PATHAK.
+Created by TANMAY PATHAK @
 
 License
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License
